@@ -1,1 +1,17 @@
-10-love_exponent_breath
+#!/bin/bash
+echo $(( BREATH ** LOVE ))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h
